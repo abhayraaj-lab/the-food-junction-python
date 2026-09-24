@@ -1,6 +1,6 @@
 print("***** THE FOOD JUNCTION *****")
 
-sales = 25000
+sales = 30000
 expense = 15000
 
 profit = sales - expense
